@@ -4,6 +4,9 @@ Here is the GEOB472 lab 2 -- Interactive Mapping
 ## Population density in United States
 <img width="1435" alt="screen shot 2019-02-28 at 11 51 04 am" src="https://user-images.githubusercontent.com/46465672/53701110-8d8de000-3dae-11e9-9daf-bfad8ef96ec3.png">
 
+## Working link
+https://yaya0118.github.io/Lab2-Interactive-Mapping/
+
 ## Collaborations and reliance on other resources
 In this choropleth map, I downloaded the US state data from the leaflet. From this small project, I learned how to create map elements. For example, how to set up information boxes, map legends, and map titles. In addition, set the layer, color and changes for each item to indicate the population density of the contour map. For this map, I added a disaster dataset that has recently occurred in the United States. I use a heat map model to illustrate the combination of disaster data and population density. I use the mouse to move the coding resources to demonstrate the population density (number of people per square mile) for each state in the information box.
 <img width="831" alt="screen shot 2019-03-03 at 11 19 26 am" src="https://user-images.githubusercontent.com/46465672/53701098-70f1a800-3dae-11e9-873b-2fa52a49267e.png">
